@@ -5,7 +5,7 @@ for complete explanation of the code.
 
 The dataset is available here, use Colab or Jupyter notebook to run the code. 
 
- analysis of credit default prediction using various machine learning models. Let's break down the code step by step and then discuss the model performance.
+ Break down of the code step by step and then discussing the model performance.
 
 Importing Libraries: The code starts by importing necessary Python libraries for data analysis and machine learning, such as pandas, numpy, seaborn, matplotlib, plotly, and various machine learning libraries like scikit-learn, CatBoost, and XGBoost.
 
